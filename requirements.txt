@@ -1,2 +1,2 @@
 streamlit
-simple_salesforce
+hydralit
